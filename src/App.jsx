@@ -2,7 +2,7 @@
 // import Row from './components/Row'
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
-import Register from './pages/Register'
+import Register2 from './pages/Register2'
 
 function App() {
 
@@ -10,7 +10,7 @@ function App() {
     <>
       <Navbar />
       <div className='container'>
-        <Register />
+        <Register2 />
         {/* <Row>
           <Card imagen="/img/helados.png" titulo="Helado super rico" precio="2500" lista={['hola', 'soy', 'una', 'lista']} />
           <Card imagen='/img/postal.png' titulo='Refrescante paseo' precio="150000" lista={['hola', 'soy', 'una', 'lista']} />
